@@ -1,4 +1,4 @@
-## Oiii eu sou a Raul Francisco dos Santos, Desenvolvedor de Sistema e Cientista de Dados!
+## Oiii eu sou a Raul Francisco dos Santos
 <div align="center">
   <a href="">
   <img height="180em" src=""/>
